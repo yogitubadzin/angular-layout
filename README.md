@@ -1,4 +1,4 @@
-# Angular pipes
+# Angular layout
 
 Run `npm install` for install dependencies
 
